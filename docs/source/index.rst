@@ -21,6 +21,4 @@ Contents
    usage
    api
 
-Lumache has its documentation hosted on Read the Docs.
-宁学志
-第二次修改
+宁学志创建，用户测试
